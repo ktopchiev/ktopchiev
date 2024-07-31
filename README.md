@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **E-Commerce Store**
 
-- 🌱 I’m currently learning **react, redux**
+- 🌱 I’m currently learning **React, Redux**
 
 - 👨‍💻 All of my projects are available at [comming soon...]
 
@@ -24,8 +24,8 @@
 <hr>
 <h3 align="left">📊  ...And A Few Statistics: </h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ktopchiev&theme=react" alt="ktopchiev" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ktopchiev&show_icons=true&locale=en&theme=react" alt="ktopchiev" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ktopchiev&show_icons=true&locale=en&layout=compact&theme=react" alt="ktopchiev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ktopchiev&show_icons=true&locale=en&theme=react" alt="ktopchiev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ktopchiev&show_icons=true&locale=en&layout=compact&theme=react" alt="ktopchiev" /></p>
 <hr>
 <br>
 <h3>Explore my <a href="https://github.com/ktopchiev?tab=repositories" target="_blank">repositories</a> to see what I've been working on.</h3>
