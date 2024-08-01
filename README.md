@@ -1,6 +1,4 @@
-<img src="https://camo.githubusercontent.com/82e15927fe3a779d5bb243ed93d85f49768667c7251d713991e67888e522f207/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello,World!&amp;height=100&amp;section=header" style="max-width: 100%;">
-
-## Welcome to my GitHub profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello,%20world&textBg=false&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20profile!&descSize=20&reversal=false&fontColor=FFFFFF&fontSize=50&fontAlign=50&fontAlignY=26&descAlignY=49" style="max-width: 100%;">
 
 ## I'm Karol Topchiev, a software developer with a focus on Web Development.
 
