@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello,%20world&textBg=false&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20profile!&descSize=20&reversal=false&fontColor=FFFFFF&fontSize=50&fontAlign=50&fontAlignY=26&descAlignY=49" style="max-width: 100%;">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello,%20World!&textBg=false&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20profile!&descSize=20&reversal=false&fontColor=FFFFFF&fontSize=50&fontAlign=50&fontAlignY=26&descAlignY=49" style="max-width: 100%;">
 
 ## I'm Karol Topchiev, a software developer with a focus on Web Development.
 
