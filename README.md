@@ -24,7 +24,7 @@
 <hr>
 <h3 align="left">📊  ...And A Few Statistics: </h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ktopchiev&theme=react&mode=daily" alt="ktopchiev" /></p>
-<p>&nbps;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ktopchiev&show_icons=true&locale=en&theme=react" alt="ktopchiev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ktopchiev&show_icons=true&locale=en&theme=react" alt="ktopchiev" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ktopchiev&show_icons=true&locale=en&layout=compact&theme=react" alt="ktopchiev" /></p>
 <hr>
 <br>
