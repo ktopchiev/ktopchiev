@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Redux**
 
-- 👨‍💻 All of my projects are available at [comming soon...]
+- 👨‍💻 All of my projects are available at https://ktopchiev.github.io/
 
 - 💬 Ask me about **React, .NET**
 
