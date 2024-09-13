@@ -10,7 +10,6 @@
 
 - 💬 Ask me about **React, .NET**
 
-- 📫 How to reach me **karoltopchiev@gmail.com**
 <hr>
 <h3 align="left"> 📬 Connect with me:</h3>
 <p align="left">
