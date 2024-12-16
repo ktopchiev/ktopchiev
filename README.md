@@ -18,7 +18,7 @@
 <hr style="width:5">
 <h3 align="left">🚀  Languages and Tools:</h3>
 <div>
-<img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+<img src="https://skillicons.dev/icons?i=cs,js"/>
 </div>
 <hr>
 <h3 align="left">📊  ...And A Few Statistics: </h3>
