@@ -18,7 +18,7 @@
 <hr style="width:5">
 <h3 align="left">🚀  Languages and Tools:</h3>
 <div>
-  [![My Skills](https://skillicons.dev/icons?i=cs,js,ts,html,css,dotnet,react,materialui,sqlite,mysql,redux,vscode,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </div>
 <hr>
 <h3 align="left">📊  ...And A Few Statistics: </h3>
