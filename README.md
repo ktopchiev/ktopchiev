@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **E-Commerce Store**
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **Advanced ASP.NET, Design Patterns, Clean Code, Clean Architecture**
 
 - 👨‍💻 All of my projects are available at https://ktopchiev.github.io/
 
