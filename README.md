@@ -2,7 +2,7 @@
 
 ## I'm Karol Topchiev, a software developer with a focus on Web Development.
 
-- 🔭 I’m currently working on **E-Commerce Store**
+- 🔭 I’m currently working on **Medieval e-commerce store - Blacksmith - https://github.com/ktopchiev/BlacksmithSolution**
 
 - 🌱 I’m currently learning **Advanced ASP.NET, Design Patterns, Clean Code, Clean Architecture**
 
