@@ -2,9 +2,9 @@
 
 ## I'm Karol Topchiev, a software developer with a focus on Web Development.
 
-- 🔭 I’m currently working on **Medieval e-commerce store - Blacksmith - https://github.com/ktopchiev/BlacksmithSolution**
+- 🔭 I’m currently working on **[SmartyParty](https://github.com/ktopchiev/SmartyParty) - an AI Web Quiz Game**
 
-- 🌱 I’m currently learning **Advanced ASP.NET, Design Patterns, Clean Code, Clean Architecture**
+- 🌱 I’m currently learning **SignalR**
 
 - 👨‍💻 All of my projects are available at https://ktopchiev.github.io/
 
