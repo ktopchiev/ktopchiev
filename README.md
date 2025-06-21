@@ -23,10 +23,15 @@
 <hr>
 <h3 align="left">📊  ...And A Few Statistics: </h3>
 <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ktopchiev&show_icons=true&locale=en&layout=compact" alt="ktopchiev" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ktopchiev&show_icons=true&locale=en" alt="ktopchiev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ktopchiev&" alt="ktopchiev" /></p>
 <br>
 <h3 align="left">Explore my <a href="https://github.com/ktopchiev?tab=repositories" target="_blank">repositories</a> to see what I've been working on.</h3>
 <br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ktopchiev" alt="ktopchiev" /></a> </p>
 <!--
 **ktopchiev/ktopchiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
