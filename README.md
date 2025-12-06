@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **SignalR**
 
-- 👨‍💻 All of my projects are available at https://ktopchiev.github.io/
+- 👨‍💻 Some of my projects are available at https://ktopchiev.github.io/
 
 - 💬 Ask me about **React, .NET**
 
